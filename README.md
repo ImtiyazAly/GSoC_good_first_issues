@@ -1,4 +1,4 @@
-This repo contains a filtered list of web development good first issues from previous year organizations for GSoC 2023 aspiring developers.
+This repo contains a filtered list of good first issues from previous year organizations for GSoC 2023 aspiring developers.
 
 ## Javascript/Typescript
 
