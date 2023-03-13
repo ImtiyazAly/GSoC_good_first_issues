@@ -35,3 +35,11 @@ This repo contains a filtered list of good first issues from previous year organ
 - https://github.com/oppia/oppia/issues/16086
 - https://github.com/oppia/oppia/issues/8804
 - https://github.com/oppia/oppia/issues/16893
+
+## C++
+
+https://gitlab.com/inkscape/inkscape/-/issues/3912
+
+## Python
+
+oppia/oppia#12507
