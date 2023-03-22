@@ -8,6 +8,8 @@ This repo contains a filtered list of good first issues from previous year organ
 - https://github.com/sugarlabs/musicblocks/issues/2410
 - https://github.com/RocketChat/Rocket.Chat/issues/23977
 - https://github.com/RocketChat/Rocket.Chat/issues/24917
+- https://github.com/RocketChat/Rocket.Chat/issues/23866
+- https://github.com/RocketChat/Rocket.Chat/issues/23967
 - https://github.com/zulip/zulip/issues/23739
 - https://github.com/vector-im/element-web/issues/22233
 - https://github.com/vector-im/element-web/issues/22126
