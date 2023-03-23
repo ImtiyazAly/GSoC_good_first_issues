@@ -16,9 +16,7 @@ This repo contains a filtered list of good first issues from previous year organ
 - https://github.com/jitsi/jitsi-meet/issues/12783
 - https://github.com/Submitty/Submitty/issues/8446
 - https://github.com/Submitty/Submitty/issues/7806
-- https://github.com/Submitty/Submitty/issues/7027
 - https://github.com/Submitty/Submitty/issues/8436
-- https://github.com/Submitty/Submitty/issues/8429
 - https://github.com/joomla/joomla-cms/issues/39637
 - https://github.com/joomla/joomla-cms/issues/39515
 - https://github.com/oppia/oppia/issues/16086
