@@ -4,7 +4,6 @@ This repo contains a filtered list of good first issues from previous year organ
 
 - https://github.com/sugarlabs/musicblocks/issues/3066
 - https://github.com/sugarlabs/musicblocks/issues/2209
-- https://github.com/sugarlabs/musicblocks/issues/2410
 - https://github.com/RocketChat/Rocket.Chat/issues/23977
 - https://github.com/RocketChat/Rocket.Chat/issues/24917
 - https://github.com/RocketChat/Rocket.Chat/issues/23866
